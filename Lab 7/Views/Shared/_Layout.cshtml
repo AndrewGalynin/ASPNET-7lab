@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ASP.NET Core MVC Project</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ASP.NET Core MVC Project</h1>
+            <nav>
+                <ul>
+                    <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a asp-controller="File" asp-action="DownloadFile">Download File</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+</body>
+</html>
+

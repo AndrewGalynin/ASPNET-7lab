@@ -1,0 +1,27 @@
+D:\ASP .NET\Lab 7\bin\Debug\net7.0\appsettings.Development.json
+D:\ASP .NET\Lab 7\bin\Debug\net7.0\appsettings.json
+D:\ASP .NET\Lab 7\bin\Debug\net7.0\Lab 7.exe
+D:\ASP .NET\Lab 7\bin\Debug\net7.0\Lab 7.deps.json
+D:\ASP .NET\Lab 7\bin\Debug\net7.0\Lab 7.runtimeconfig.json
+D:\ASP .NET\Lab 7\bin\Debug\net7.0\Lab 7.dll
+D:\ASP .NET\Lab 7\bin\Debug\net7.0\Lab 7.pdb
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.AssemblyInfoInputs.cache
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.AssemblyInfo.cs
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.csproj.CoreCompileInputs.cache
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.RazorAssemblyInfo.cache
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.RazorAssemblyInfo.cs
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\staticwebassets\msbuild.Lab 7.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\staticwebassets\msbuild.build.Lab 7.props
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Lab 7.props
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Lab 7.props
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\staticwebassets.build.json
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\staticwebassets.development.json
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\scopedcss\bundle\Lab 7.styles.css
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.dll
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\refint\Lab 7.dll
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.pdb
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\Lab 7.genruntimeconfig.cache
+D:\ASP .NET\Lab 7\obj\Debug\net7.0\ref\Lab 7.dll
